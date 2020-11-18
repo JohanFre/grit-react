@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/grit-react/static/css/main.bd181752.chunk.css",
+    "main.js": "/grit-react/static/js/main.112fc3a4.chunk.js",
+    "main.js.map": "/grit-react/static/js/main.112fc3a4.chunk.js.map",
+    "runtime-main.js": "/grit-react/static/js/runtime-main.dcebf0bb.js",
+    "runtime-main.js.map": "/grit-react/static/js/runtime-main.dcebf0bb.js.map",
+    "static/js/2.5308bd28.chunk.js": "/grit-react/static/js/2.5308bd28.chunk.js",
+    "static/js/2.5308bd28.chunk.js.map": "/grit-react/static/js/2.5308bd28.chunk.js.map",
+    "index.html": "/grit-react/index.html",
+    "static/css/main.bd181752.chunk.css.map": "/grit-react/static/css/main.bd181752.chunk.css.map",
+    "static/js/2.5308bd28.chunk.js.LICENSE.txt": "/grit-react/static/js/2.5308bd28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcebf0bb.js",
+    "static/js/2.5308bd28.chunk.js",
+    "static/css/main.bd181752.chunk.css",
+    "static/js/main.112fc3a4.chunk.js"
+  ]
+}
